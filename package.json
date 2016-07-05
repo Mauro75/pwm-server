@@ -1,0 +1,26 @@
+{
+  "name": "lab02-httpserver",
+  "version": "0.0.0",
+  "description": "Servidor http basico",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauro75/pwm-server.git"
+  },
+  "keywords": [
+    "server",
+    "node",
+    "static",
+    "javascript"
+  ],
+  "author": "jmaurolp@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauro75/pwm-server/issues"
+  },
+  "homepage": "https://github.com/Mauro75/pwm-server#readme"
+}
